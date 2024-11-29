@@ -13,7 +13,7 @@ sequenceDiagram
     ThôngBáo->>NhânViên: Tác vụ được giao
     ThôngBáo->>KhachHang: Tác vụ đã được giao
 
-sequenceDiagram
+<!-- sequenceDiagram
     participant NgườiDùng as Người Dùng
     participant ỨngDụng as Ứng Dụng
     participant MáyChủ as Máy Chủ
@@ -24,5 +24,5 @@ sequenceDiagram
     MáyChủ->>CSDL: Kiểm tra thông tin tài khoản
     CSDL-->>MáyChủ: Kết quả xác thực (Hợp lệ/Không hợp lệ)
     MáyChủ-->>ỨngDụng: Phản hồi đăng nhập (Thành công/Thất bại)
-    ỨngDụng-->>NgườiDùng: Hiển thị kết quả đăng nhập
+    ỨngDụng-->>NgườiDùng: Hiển thị kết quả đăng nhập -->
 
