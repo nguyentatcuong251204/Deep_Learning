@@ -14,6 +14,7 @@ sequenceDiagram
     ThôngBáo->>NhânViên: Tác vụ được giao
     ThôngBáo->>KhachHang: Tác vụ đã được giao
 
+```mermaid
 sequenceDiagram
     participant NgườiDùng as Người Dùng
     participant ỨngDụng as Ứng Dụng
