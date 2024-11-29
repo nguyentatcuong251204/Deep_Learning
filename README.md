@@ -1,3 +1,5 @@
+```mermaid
+
 sequenceDiagram
     participant KhachHang as Khách Hàng
     participant QuảnLýTácVụ as Quản Lý Dự Án
